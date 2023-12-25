@@ -1,3 +1,5 @@
+npm run test ./test/what*
+
 # Core JS Strings
 
 :warning: **Please note that you mustn't open PRs that contains the answers to this repo!**
